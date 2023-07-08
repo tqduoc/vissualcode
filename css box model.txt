@@ -1,0 +1,47 @@
+- Content: các nội dung như văn bản, hình ảnh, …
+
+- Border: phần đường viền bao quanh element, phần này được tính là bên trong element.
+
+- Padding: phần không gian trống giữa content và border, phần này cũng được tính là bên trong element.
+
+- Margin: phần không gian trống xung quanh phần tử, phần này không được tính vào bên trong phần tử. Phần không gian này được xác định từ border (nếu có), padding (nếu có) hay phần content ra bên ngoài.
+
+
+- Ngoài các thành phần trên chúng ta có một định nghĩa fill area, nó xác định khu vực được tô màu nền hoặc hình nền(khu vực chịu ảnh hưởng của thuộc tính background-color/image)
+
+
+----------------------------------------------------------------------------------------
+
+- Ngoài các thành phần trên chúng ta có một định nghĩa fill area, nó xác định khu vực được tô màu nền hoặc hình nền(khu vực chịu ảnh hưởng của thuộc tính background-color/image)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
